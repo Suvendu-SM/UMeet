@@ -2,7 +2,7 @@
 
 # Images
 
-<img src="https://github.com/Suvendu-SM/UMeet/blob/main/Images/IMG-20210410-WA0000.jpg" width="500" height="600" >
+<img src="https://github.com/Suvendu-SM/UMeet/blob/main/Images/IMG-20210410-WA0000.jpg" width="600" height="600" >
 <img src="https://github.com/Suvendu-SM/UMeet/blob/main/Images/Screenshot_20210409_210554_com.example.twity.jpg">
 <img src="https://github.com/Suvendu-SM/UMeet/blob/main/Images/Screenshot_20210409_220107_com.example.twity.jpg">
 <img src="https://github.com/Suvendu-SM/UMeet/blob/main/Images/Screenshot_20210410_011308_com.example.twity.jpg">
