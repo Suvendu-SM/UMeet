@@ -1,1 +1,1 @@
-# UMeet (chating app)
+# UMeet (chatting app)
